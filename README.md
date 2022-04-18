@@ -7,7 +7,7 @@
 
 - 🚀 I’m a undergrad Software Engineering Student at **[UIT](https://www.uit.edu/)**.
 
-- 🔭 I’m currently working on **OpenCV Project**
+- 🔭 I’m currently working on **Data Science Project**
 
 - 🌱 I’m currently learning **Machine Learning**
 
