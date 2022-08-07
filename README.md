@@ -1,7 +1,7 @@
-<p align ='center'><a href="#"><img width="50%" height="auto" src="https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif" height="100px"/></a></p>
+<p align ='center'><a href="#"><img width="50%" height="auto" src="https://user-images.githubusercontent.com/66507909/135775594-dd729ae2-22d7-4692-92e9-c174c29991b2.gif" height="100px"/></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rimmel</h1>
-<h3 align="center">I'm a passionate Data Scientist from Pakistan.</h3>
+<h3 align="center">I'm a passionate Software Developer & Data Scientist from Pakistan.</h3>
 
 ## 🙋‍♂️ About Me
 
