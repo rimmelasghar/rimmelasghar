@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rimmelasghar3@gmail.com**
 
-- ⚡ Fun fact **I Like to play with Data**
+- ⚡ Fun fact **I Love to code**
 
 ## 🚀 Languages and Tools:
 
