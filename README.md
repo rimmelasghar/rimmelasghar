@@ -2,6 +2,8 @@
 
 
 ## About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13F700&width=435&lines=I+am+a+Data+scientist.;I+am+a+Software+Developer.;I+am+a+Open+source+Contributor.)](https://git.io/typing-svg)
+
 I am Rimmel Asghar currently a undergrad Software Engineering student at @UIT.I am passionate software developer and a Data science Enthusiast based in Karachi
 I believe in Learning in public, Building new things, and Contributing my skills to the community.❤
 
