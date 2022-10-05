@@ -1,4 +1,4 @@
-<p align ='center'><a href="#"><img width="100%" height="auto" src="https://github.com/rimmelasghar/rimmelasghar/blob/master/intro2.png" height="100px"/></a></p>
+<p align ='center'><a href="#"><img width="100%" height="auto" src="https://github.com/rimmelasghar/rimmelasghar/blob/master/intro3.png" height="100px"/></a></p>
 
 
 ## About Me
