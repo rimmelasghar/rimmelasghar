@@ -28,6 +28,8 @@ I believe in Learning in public, Building new things, and Contributing my skills
         <a href="https://git-scm.com/" target="_blank"> <img width="48" height="48" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg"/> </a>
             <a href="https://git-scm.com/" target="_blank"> <img width="48" height="48" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/bash.svg"/> </a>
                 <a href="https://git-scm.com/" target="_blank"> <img width="48" height="48" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg"/> </a>
+                <a href="https://git-scm.com/" target="_blank"> <img width="48" height="48" src="https://2ality.com/2011/10/logo-js/js.jpg"/> </a>
+                 <a href="https://git-scm.com/" target="_blank"> <img width="48" height="48" src="https://th.bing.com/th/id/R.1d89bcac0e4e37ae76cc75b928394d2c?rik=l1bk%2bFPet%2f687A&riu=http%3a%2f%2fcodeflex.co%2fwp-content%2fuploads%2f2018%2f02%2fapache-spark-logo.png&ehk=%2bYlN%2btOUwZA9hyyui08ThPPpIcWjVG6msMSMJMxMAuk%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1"/> </a>
 </p>
 
 
