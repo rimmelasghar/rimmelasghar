@@ -49,9 +49,4 @@ I am Currently Learning Data Structures 😁
 
 <a href = "https://www.linkedin.com/in/rimmelasghar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
-
-## ❤ Followers
-<a href="https://github.com/rimmelasghar?tab=followers"><img src="https://img.shields.io/github/followers/rimmelasghar?label=Followers&style=social" alt="GitHub Badge"></a>
-
-## MY LinkTree
 **[LinkTree](https://linktr.ee/rimmelasghar)**
