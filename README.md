@@ -6,7 +6,7 @@
 
 I am Rimmel Asghar currently a undergrad Software Engineering student at @UIT.I am passionate software developer and a Data science Enthusiast based in Karachi
 I believe in Learning in public, Building new things, and Contributing my skills to the community.❤
-I am Currently Learning Data Structures 😁
+I am Currently Learning Big Data Technologies.
 
 ## 🚀 Languages and Tools:
 
