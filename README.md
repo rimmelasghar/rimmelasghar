@@ -1,4 +1,4 @@
-<p align ='center'><a href="#"><img width="100%" height="auto" src="https://github.com/rimmelasghar/rimmelasghar/blob/master/intro4.jpg" height="100px"/></a></p>
+<p align ='center'><a href="#"><img width="100%" height="auto" src="https://github.com/rimmelasghar/rimmelasghar/blob/master/Intro4.jpg" height="100px"/></a></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=rimmelasghar&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="count" /> </p>
