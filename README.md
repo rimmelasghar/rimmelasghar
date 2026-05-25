@@ -7,7 +7,7 @@
 ## About Me
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13F700&width=435&lines=I+am+a+Data+scientist.;I+am+a+Software+Developer.;I+am+a+Open+source+Contributor.)](https://git.io/typing-svg) -->
 
-Meet Rimmel Asghar, An enthusiastic and driven Software Engineering student at @UIT, based in Karachi. With a passion for software development and a thirst for knowledge, Rimmel is always looking to learn and grow in the field of Software Engineering. With a keen interest in Big Data technologies, Rimmel is poised to make a big impact in the industry. But Rimmel's not just about self-improvement – he is also dedicated for contributing his skills to the community and sharing his knowledge with others. With Rimmel's energy, curiosity, and commitment to learning in public, you can be sure that he is destined for great things. So buckle up and get ready to be inspired by Rimmel Asghar!
+Meet Rimmel Asghar, An enthusiastic and driven Software Engineering student at @UNINA, based in Naples Italy. With a passion for software development and a thirst for knowledge, Rimmel is always looking to learn and grow in the field of Software Engineering. With a keen interest in Big Data technologies, Rimmel is poised to make a big impact in the industry. But Rimmel's not just about self-improvement – he is also dedicated for contributing his skills to the community and sharing his knowledge with others. With Rimmel's energy, curiosity, and commitment to learning in public, you can be sure that he is destined for great things. So buckle up and get ready to be inspired by Rimmel Asghar!
 
 <!-- ## 🚀 Languages and Tools:
 
